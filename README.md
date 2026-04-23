@@ -1,10 +1,10 @@
-# 🛡️ ScamRadar
+#  ScamRadar
 
 **ScamRadar** is a community-driven, full-stack platform designed to identify, report, and stay safe from the ever-evolving landscape of digital fraud. In a world where scams are becoming increasingly sophisticated, ScamRadar provides a unified space for users to share their experiences and help protect others from falling victim to similar traps.
 
 ---
 
-## 🌟 Why ScamRadar?
+## Why ScamRadar?
 
 Digital fraud isn't just about losing money—it's about the breach of trust and the confusion that follows. We built ScamRadar to:
 - **Centralize Information:** Bring together community reports, news, and official blacklists (like TRAI) into one place.
@@ -13,7 +13,7 @@ Digital fraud isn't just about losing money—it's about the breach of trust and
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Community Reporting:** Submit detailed logs of scams you've encountered to warn the community.
 - **Real-Time Feed:** A live, interactive feed of the latest reports and scam trends.
@@ -25,7 +25,7 @@ Digital fraud isn't just about losing money—it's about the breach of trust and
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
@@ -43,7 +43,7 @@ Digital fraud isn't just about losing money—it's about the breach of trust and
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -87,7 +87,7 @@ Digital fraud isn't just about losing money—it's about the breach of trust and
 
 ---
 
-## 🏃 Running the Project
+##  Running the Project
 
 To start both the client and server concurrently, simply run:
 
@@ -101,7 +101,7 @@ The application will be available at:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 scamradar/
@@ -120,7 +120,7 @@ scamradar/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We believe that community safety is a shared responsibility. If you're a developer, designer, or security enthusiast, we'd love your help! Feel free to:
 1. Fork the repo.
@@ -131,10 +131,10 @@ We believe that community safety is a shared responsibility. If you're a develop
 
 ---
 
-## ⚖️ License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-**Stay Safe. Report Scams. Protect the Community.** 🛡️
+**Stay Safe. Report Scams. Protect the Community.** 
